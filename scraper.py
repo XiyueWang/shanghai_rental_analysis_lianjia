@@ -122,7 +122,7 @@ def GetListingDetails(soup):
             continue
 
         with open('lianjia_shanghai.csv', 'a', encoding='utf-8') as f:
-            f.write(ptpl.format(name, rent_type, beds, price, coord['lon'], coord['lat'], tagnum[0],
+            f.write(ptpl.format(name, rent_type, beds, price, coords['lon'], coords['lat'], tagnum[0],
                                 tagnum[1],tagnum[2],tagnum[3],tagnum[4],tagnum[5],tagnum[6],tagnum[7],tagnum[8],
                                size, orientation, level, elevator, parking, amenities))
 
