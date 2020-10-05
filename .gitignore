@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.DS_Store
+coefs.csv
+lianjia_sh_cleaned.csv
+lianjia_shanghai.html
+rf_cv.pkl
+scraper.ipynb
+shanghai.geo.png
+shanghai.geojson
+shanghai.json
+上海市.json
