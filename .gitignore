@@ -1,7 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
 coefs.csv
-lianjia_sh_cleaned.csv
+liangjia_sh_cleaned.csv
 lianjia_shanghai.html
 rf_cv.pkl
 scraper.ipynb
